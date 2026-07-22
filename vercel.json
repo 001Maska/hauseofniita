@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "hausofniita-website",
+  "builds": [
+    {
+      "src": "**/*",
+      "use": "@vercel/static"
+    }
+  ]
+}
